@@ -79,8 +79,7 @@
   <!-- See https://checkstyle.org/checks/whitespace/index.html -->
   <!-- TODO <module name="FileTabCharacter"/> -->
 
-  <!-- Miscellaneous other checks.                   -->
-  <!-- See https://checkstyle.org/checks/misc/index.html -->
+
   <module name="RegexpSingleline">
     <property name="format" value="\s+$"/>
     <property name="minimum" value="0"/>
